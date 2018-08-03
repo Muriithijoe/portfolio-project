@@ -1,12 +1,12 @@
 # Portfolio website
 #### Portfolio website for my first Moringa school project
-#### By Joe Muriithi
+#### By *Joe Muriithi*
 ## Description
 This is a website in which I tell you a bit about myself the author why I chose this awesome
 school and also showcase some of the work I've done so far
 ## Setup/Installation Requirements
 * Once you receive a link
-* open your browser preferably Google Chrome
+* open your browser preferably _Google Chrome_
 * copy the link there
 * it will open up the website
 ##link to site
