@@ -1,11 +1,6 @@
-body {
-  background-color: pink;
-}
-
-h1 {
-  color: grey;
-}
-
-h2 {
-  color: red;
+.test-box {
+  border-left: 2px solid red;
+  border-right: 2px solid red;
+  border-top: 2px solid red;
+  border-bottom: 2px solid red;
 }
