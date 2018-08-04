@@ -24,4 +24,5 @@ body {
   border-right: 2px solid red;
   border-top: 2px solid red;
   border-bottom: 2px solid red;
+  padding: 6px;
 }
